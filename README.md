@@ -1,4 +1,4 @@
-# node-red-contrib-ocr
+# @martip/node-red-ocr
 
 A [Node-RED](https://nodered.org/) node that performs OCR on an image, using the [Tesseract.js](https://tesseract.projectnaptha.com/) library.
 
