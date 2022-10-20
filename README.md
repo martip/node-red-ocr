@@ -6,7 +6,7 @@ A [Node-RED](https://nodered.org/) node that performs OCR on an image, using the
 
 Either use the `Node-RED Menu - Manage Palette - Install`, or run the following command in your Node-RED user directory - typically `~/.node-red`
 
-    npm install node-red-contrib-ocr
+    npm install @martip/node-red-ocr
 
 ## Usage
 
