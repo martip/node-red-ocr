@@ -1,0 +1,24 @@
+{
+  "name": "node-red-contrib-ocr",
+  "version": "1.0.0",
+  "description": "Node-RED node for performing OCR on images, using tesseract.js.",
+  "keywords": [
+    "node-red",
+    "ocr",
+    "tesseract"
+  ],
+  "author": "Paolo Martino",
+  "license": "MIT",
+  "node-red": {
+    "version": ">=1.0.0",
+    "nodes": {
+      "ocr": "ocr/ocr.js"
+    }
+  },
+  "dependencies": {
+    "tesseract.js": "^2.1.5"
+  },
+  "engines": {
+    "node": ">= 10"
+  }
+}
